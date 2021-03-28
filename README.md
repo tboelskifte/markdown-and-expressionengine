@@ -1,6 +1,6 @@
 ## ExpressionEngine & Markdown
 
-Ever wanted to have ExpressionEngine pull content from Markdown files directly into entries, and have the site update when changes are made to the markdown-files? Read on...
+Ever wanted to have ExpressionEngine pull content from Markdown files directly into entries, *and* have the site update when changes are made to the markdown-files? Read on...
 
 I asked the following question on the ExpressionEngine Forums a few months ago:
 
@@ -20,4 +20,4 @@ The general consensus was that this was a great idea, but no add-on with such fu
 
 In the following months I thought about this a lot, and since I'm a web-developer and not a coder (not enough of a coder anyway) I couldn't created an add-on myself. But some solution had to exist to make this possible — and it did!
 
-After a lot of trial and error, I've found the following solution that works pretty well, after you set it up.
+After a lot of trial and error, I've found a solution that works pretty well. You can read all about it, in the wiki here...
