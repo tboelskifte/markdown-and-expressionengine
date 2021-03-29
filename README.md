@@ -1,4 +1,4 @@
-#Getting ExpressionEngine CMS to read markdown-files directly from the server
+## Getting ExpressionEngine CMS to pull markdown-files as channel entries from the server
 
 I asked the following [question](https://expressionengine.com/forums/topic/252997/import-markdown-files-as-entries-from-the-server) on the ExpressionEngine Forums a few months ago:
 
