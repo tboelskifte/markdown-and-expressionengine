@@ -16,5 +16,5 @@ The general consensus was that this was a great idea, but no add-on with such fu
 
 In the following months I thought about this a lot, but since I'm a web-developer and not a coder (not enough of a coder anyway) I couldn't create such an add-on myself. But some solution *had* to exist to make this possible — and it did!
 
-After a lot of trial and error, I've found the following solution, that works pretty well after you set it up. You can read all about it [in the wiki here...](https://github.com/tboelskifte/markdown-and-expressionengine/wiki/1:-Introduction)
+After a lot of trial and error, I've found the following solution that works pretty well after you set it up. You can read all about it [in the wiki here...](https://github.com/tboelskifte/markdown-and-expressionengine/wiki/1:-Introduction)
 
