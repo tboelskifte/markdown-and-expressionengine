@@ -22,5 +22,5 @@ After a lot of trial and error, I've found the following solution that works pre
 
 - [Introduction](https://github.com/tboelskifte/markdown-and-expressionengine/wiki/1:-Introduction) (more or less the same as this page)
 - [How to get it working](https://github.com/tboelskifte/markdown-and-expressionengine/wiki/2:-How-to-get-it-working)
-- [Links & Further Info](
+- [Links & Further Info](https://github.com/tboelskifte/markdown-and-expressionengine/wiki/3:-Links-&-Further-Info)
 
